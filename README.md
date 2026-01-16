@@ -1,10 +1,9 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duongthienlee&theme=dark)](https://github.com/duongthienlee)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duongthienlee&theme=dark)](https://github.com/duongthienlee)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=duongthienlee&theme=dark)](https://github.com/duongthienlee)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=duongthienlee&theme=dark)](https://github.com/duongthienlee)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=duongthienlee&theme=dark)](https://github.com/duongthienlee)
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duongthienlee&theme=dark)]
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=duongthienlee&theme=dark)]
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=duongthienlee&theme=dark)]
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=duongthienlee&theme=dark)]
 
 
 
